@@ -1,0 +1,259 @@
+.banner{
+    width: 100%;
+}
+
+body {
+    background-color: #d7eaf2;
+    font-family: "Helvetica Neue", sans-serif;
+    margin-top: 57px;
+    width: 1080px
+    margin: 0 auto;
+
+}
+
+#navbar{
+    font-family: 'Lexend Deca', sans-serif; 
+    overflow: hidden;
+    background-color: #013759;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    left:0;
+    width: 100%;
+    display: block;
+    z-index: 1;
+}
+
+#navbar a{
+    display: inline-block; 
+    padding: 15px;
+    color: #b3d1d8;
+    text-decoration: none;
+ }
+
+#navbar a:hover{
+    background-color: #025272;
+}
+
+#navbar a:active{
+    background-color: #1f8da5;
+}
+
+#image1{
+    margin: 40px;
+    position: absolute;
+    left: 80px;
+}
+
+#image2{
+    margin: 40px;
+    position: absolute;
+    left: 490px;
+}
+
+#image3{
+    margin: 40px;
+    position: absolute;
+    right: 80px;
+}
+
+#image4{
+    position: relative;
+    top: -100px;
+    margin: 40px;
+}
+
+#image5{
+    margin: 40px;
+    position: relative;
+    float: right;
+    top: -500px;
+}
+
+#image6{
+    margin: 40px;
+    position: relative;
+    top: -365px;
+}
+
+#image7{
+    margin: 40px;
+    position: relative;
+    top: -440px;
+}
+
+#image8{
+    margin: 40px;
+    position: relative;
+    float: right;
+    top: -1065px;
+}
+
+#image9{
+    margin: 40px;
+    position: relative;
+    top: -900px;
+}
+
+#image10{
+    margin: 40px;
+    position: relative;
+    top: -975px;
+}
+
+h1 {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 75px;
+    font-weight: 700;
+    text-align: center;
+    color: #013759;
+    border: solid 5px #fff;
+    padding: 10px;
+}
+
+h2 {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 35;
+    color: #013759;
+    text-align: center;
+    position: relative;
+    top: -75px;
+}
+
+h3 {
+    font-size: 40;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #013759;
+    background-color: #50b4bf;
+    padding: 8px;
+    width: 50%;
+}
+
+h4 {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 25;
+    color: #1f8da5;
+}
+
+h6{
+    font-size: 10px;
+    color: #013759;
+    text-align: center; 
+}
+
+#p1{
+    text-align: center;
+    font-size: 14pt;
+    margin: 55px;
+    color: #013759;
+    position: relative;
+    top: -110px;
+}
+
+#p2 {
+    color: #013759;
+    width: 50%;
+}
+
+#p3 {
+    color: #013759;
+    width: 50%;
+}
+
+#p4 {
+    color: #013759;
+    width: 50%;
+}
+
+#p5 {
+    color: #013759;
+    width: 50%;
+}
+
+#p6 {
+    color: #013759;
+    width: 50%;
+}
+
+#p7 {
+    color: #013759;
+    width: 50%;
+}
+
+#p8 {
+    color: #013759;
+    width: 50%;
+}
+
+#p9 {
+    color: #013759;
+    width: 50%;
+}
+
+#p10 {
+    color: #013759;
+    width: 50%;
+}
+
+#p11 {
+    color: #013759;
+    width: 50%;
+}
+
+.container{
+    position: relative;
+    top: 450px;
+}
+
+.taxonomy{
+    position: relative;
+    left: 620px;
+    top: -652px;
+    margin: 20px;
+}
+
+.biology{
+    margin: 40px;
+    position: relative;
+    top: -480px;
+}
+
+.ecology{
+    margin: 40px;
+    position: relative;
+    left: 620px;
+    top: -1225px;
+}
+
+.behavior{
+    margin: 40px;
+    position: relative;
+    top: -1025px;  
+}
+
+.relationship{
+    margin: 40px;
+    position: relative;
+    left: 620px;
+    top: -1710px;
+}
+
+#caption4{
+    text-align: left;
+}
+
+#caption5{
+    text-align: right;
+}
+
+#caption6{
+    text-align: left;
+}
+
+#caption7{
+    text-align: right;
+}
+
+#caption8{
+    text-align: left;
+}
